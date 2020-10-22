@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartCityC_1</string>
+    <string-array name="hh">
+        <item>水费</item>
+        <item>电费</item>
+    </string-array>
+</resources>
